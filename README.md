@@ -36,10 +36,7 @@
 <br />
 
 ### P;T 기능
-
-
-![overview - project services](https://i.imgur.com/l3VwS7o.png)
-
+![주기능](https://user-images.githubusercontent.com/62532878/136691979-11589c46-1f98-4837-8e52-9c44019ff88b.PNG)
 
 <br />
 <br />
