@@ -43,7 +43,7 @@
 
 ## 3. 기술 스택 및 구조
 ### 사용 기술
-![](https://i.imgur.com/pHhgOVJ.png)
+![기술스택](https://user-images.githubusercontent.com/62532878/136692008-3f6072fa-a2e8-441e-8452-4b13ff315f89.PNG)
 <br />
 
 ### 아키텍처
