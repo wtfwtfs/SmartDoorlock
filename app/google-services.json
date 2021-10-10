@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39249488279",
+    "firebase_url": "https://fcm-test-58311.firebaseio.com",
+    "project_id": "fcm-test-58311",
+    "storage_bucket": "fcm-test-58311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39249488279:android:eb9977578d2d79e5",
+        "android_client_info": {
+          "package_name": "com.example.inu_smartdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39249488279-fseie85r8cshbo2fpr15shudsvr9dhpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZErQ-IlecaBCEdxAF9VBV9RFo6GUxeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39249488279-fseie85r8cshbo2fpr15shudsvr9dhpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back1" >
+
+    <TableLayout
+        android:id="@+id/TableLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="1" />
+            
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="2" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="3" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="4" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="5" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="6" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="7" />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="8" />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="9" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            <Button
+                android:id="@+id/buttonr"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="Reset" 
+                android:enabled="false"/>
+
+            <Button
+                android:id="@+id/button0"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="0" />
+
+            <Button
+                android:id="@+id/buttonE"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="Enter" />
+        </TableRow>
+
+    </TableLayout>
+    		<Button
+        android:id="@+id/buttoncam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/TableLayout1"
+        android:text="Cam" />
+
+</RelativeLayout>
