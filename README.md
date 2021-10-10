@@ -38,7 +38,7 @@
 ### P;T 기능
 
 
-![overview - project services](https://i.imgur.com/l3VwS7o.png =350x)
+![overview - project services](https://i.imgur.com/l3VwS7o.png)
 
 
 <br />
@@ -46,11 +46,11 @@
 
 ## 3. 기술 스택 및 구조
 ### 사용 기술
-![](https://i.imgur.com/pHhgOVJ.png =500x)
+![](https://i.imgur.com/pHhgOVJ.png)
 <br />
 
 ### 아키텍처
-![](https://i.imgur.com/ByGx4d2.png =500x)
+![](https://i.imgur.com/ByGx4d2.png)
 
 <br />
 
@@ -72,7 +72,7 @@
 ㅤ
 
 ### 주기능 2) 도어락 잠금 해제
-![](https://i.imgur.com/LunsLbv.png =300x)
+![](https://i.imgur.com/LunsLbv.png)
 
 
 >블루투스 연결이 완료되면, 키패드에 비밀번호를 입력해 도어락의 잠금을 해제할 수 있습니다.
@@ -90,7 +90,7 @@
 <br />
 
 ### 주기능 4) 얼굴 인식 및 푸시 알림
-![](https://i.imgur.com/VJ9jlCd.png =700x)
+![](https://i.imgur.com/VJ9jlCd.png)
 
 >웹캠 영상에 얼굴이 인식되면 **집주인인지 아닌지**를 판별하여 푸시 알림을 받게 됩니다.
 
