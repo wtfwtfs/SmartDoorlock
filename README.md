@@ -43,16 +43,15 @@
 
 ## 3. 기술 스택 및 구조
 ### 사용 기술
-![기술스택](https://user-images.githubusercontent.com/62532878/136692008-3f6072fa-a2e8-441e-8452-4b13ff315f89.PNG)
+<img src="https://i.imgur.com/pHhgOVJ.png" width="600"/>
 <br />
 
 ### 아키텍처
-![](https://i.imgur.com/ByGx4d2.png)
-
+<img src="https://i.imgur.com/ByGx4d2.png" width="600"/>
 <br />
 
 ### 도어락 통신구조
-![](https://i.imgur.com/upIPp1y.png)
+<img src="https://i.imgur.com/upIPp1y.png" width="600"/>
 
 <br />
 <br />
@@ -87,7 +86,7 @@
 <br />
 
 ### 주기능 4) 얼굴 인식 및 푸시 알림
-![](https://i.imgur.com/VJ9jlCd.png)
+<img src="https://i.imgur.com/VJ9jlCd.png" width="700"/>
 
 >웹캠 영상에 얼굴이 인식되면 **집주인인지 아닌지**를 판별하여 푸시 알림을 받게 됩니다.
 
